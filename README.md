@@ -55,5 +55,3 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Github Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Github%20Dorks.md)
 - [Google Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Google%20Dorks.md)
 - [Shodan Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Recon/Shodan%20Dorks.md)
-
-## Coming Soon!
