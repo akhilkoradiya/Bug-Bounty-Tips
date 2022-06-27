@@ -1,11 +1,6 @@
 # All about bug bounty
 These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
 
-![](https://img.shields.io/github/issues/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/forks/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/stars/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/last-commit/daffainfo/AllAboutBugBounty)
-
 ## List
 - [Arbitrary File Upload](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Arbitrary%20File%20Upload.md)
 - [Business Logic Errors](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Business%20Logic%20Errors.md)
